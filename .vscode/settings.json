@@ -1,0 +1,4 @@
+{
+  "emmet.excludeLanguages": ["markdown"],
+  "bracketPairColorizer.excludedLanguages": []
+}
