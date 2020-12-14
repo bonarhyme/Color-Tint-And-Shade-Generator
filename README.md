@@ -1,4 +1,4 @@
-## [colortsgenerator.netlify.app](colortsgenerator.netlify.app)
+## [https://colortsgenerator.netlify.app](https://colortsgenerator.netlify.app)
 
  ### What am I?
  I am a simple app that quickly generates tints and shades for my users in an easy and convenient way. 
@@ -7,7 +7,7 @@
  My creator [bonarhyme](https://twitter.com/bonarhyme) was finding it irksome to easily swittch between a particular shade or tint of a color and so decided to make me to ease up his work.
  
  ### How can I be used?
- To use my services visit [colortsgenerator.netlify.app](colortsgenerator.netlify.app). Note that you need an understanding of how hexidecimal color (hex color) codes work.
+ To use my services visit [https://colortsgenerator.netlify.app](colortsgenerator.netlify.app). Note that you need an understanding of how hexidecimal color (hex color) codes work.
  
  ### How are hex colors used?
  Hex color codes simplifies the naming convention of colors unlike other primary naming conventions such as the hsla (hue, saturation, lightness and alpha). 
@@ -37,8 +37,8 @@ A shade is created by adding black to a base hue, darkening the color. This crea
 ### What are color tints?
 A tint is created by adding white to a base hue, lightening the color. This can make a color less intense, and is useful when balancing more vivid color combinations.
 
-Explore [colortsgenerator.netlify.app](colortsgenerator.netlify.app) to see 20 unique tints and also 20 unique shades of any particular color.
-![colortsgenerator.netlify.app](public/colortsgenerator.PNG)
+Explore [https://colortsgenerator.netlify.app](colortsgenerator.netlify.app) to see 20 unique tints and also 20 unique shades of any particular color.
+![https://colortsgenerator.netlify.app](public/colortsgenerator.PNG)
 
 
 
