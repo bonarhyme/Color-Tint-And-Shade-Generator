@@ -1,4 +1,5 @@
 {
   "emmet.excludeLanguages": ["markdown"],
-  "bracketPairColorizer.excludedLanguages": []
+  "bracketPairColorizer.excludedLanguages": [],
+  "html.format.contentUnformatted": ""
 }
